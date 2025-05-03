@@ -8,7 +8,7 @@ int main()
     int n;
     cout << "Enter the number of process" << endl;
     cin >> n;
-    cout << "Enter the arrival time " << endl;
+    cout << "Enter Arrival time " << endl;
     vector<int> at;
     for (int i = 0; i < n; i++)
     {
